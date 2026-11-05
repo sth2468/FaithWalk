@@ -23,7 +23,7 @@ h2{
 .screen-container {
   display: grid;
   place-items: center;
-  min-height: 100vh;
+  min-height: 75vh;
 }
 
 .custom-btn{
