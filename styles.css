@@ -5,6 +5,7 @@ h1{
   font-weight: normal;
   color: #222222;
   line-height: 1.2;
+  margin-bottom: 0;
 }
 
 h2{  
@@ -16,6 +17,7 @@ h2{
   color: #666666;
   text-align: center;
   width: 300px;
+  margin-top: 0;
 }
 
 .screen-container {
@@ -37,7 +39,7 @@ h2{
   background-color: #0c7a6d;
   border: none;
   border-radius: 6px;
-  cursor: pointer;
+  cursor: auto;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
 }
